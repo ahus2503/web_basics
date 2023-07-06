@@ -1,0 +1,28 @@
+/* selector { property : value; } */
+
+h1, h3 {
+  text-align: center;
+  color: red;
+}
+
+h2{
+  color: yellowgreen;
+}
+
+h4{
+  text-size-adjust: 20px;
+}
+
+p {
+  color: blue;
+}
+
+body {
+  background-color: rgb(188, 196, 188);
+}
+
+div{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: blueviolet;
+    font-weight: 200;
+    }
